@@ -1,0 +1,15 @@
+.header{
+    background-color: aqua;
+    width: 100%;
+    background-image:url(./1.jpg.png);
+    background-size:cover ;
+    background-position: 0 40%;
+    background-repeat: no-repeat;
+    border: 10px dashed green;
+    box-sizing:border-box;
+    pading : 20px;
+    background-origin: pading-box;
+    background-clip:pading-box;
+    background-attachment: fixed;
+    
+}
